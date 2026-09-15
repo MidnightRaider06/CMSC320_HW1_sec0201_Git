@@ -5,3 +5,7 @@ Answer: We should consider using Git because it makes version control much easie
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to finance, for example detecting credit card fraud.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches by creating a new commit that preserves the complete history, but rebasing rewrites history by moving your branch's commits onto the tip of the target branch for a linear log/commit history.
